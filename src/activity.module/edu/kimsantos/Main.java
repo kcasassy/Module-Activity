@@ -13,17 +13,17 @@ public class Main {
         ArrayList<Device> devices = new ArrayList<>();
 
         devices.add(new Laptop(
-                "Iphone 15",
+                "Asus Vivobook Go 15",
                 80,
                 new NormalPowerOn()));
 
         devices.add(new Smartphone(
-                "Xiaomi Redmi Note 15",
+                "Iphone 12",
                 40,
                 new FastBootPowerOn()));
 
         devices.add(new Tablet(
-                "Iphone 12",
+                "Xiaomi Pad 8",
                 71,
                 new NormalPowerOn()));
 
